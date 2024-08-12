@@ -1,0 +1,4 @@
+[09-May-2024 13:34:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/buildit/acrdigitalmedia.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/buildit/acrdigitalmedia.com/config/database.php on line 18

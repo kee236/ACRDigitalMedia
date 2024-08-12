@@ -1,0 +1,7 @@
+<?php
+if(!defined("STATIC_HTML")){define('STATIC_HTML','no');}
+if(!defined("INDEX_PHP")){define('INDEX_PHP','');}
+if(!defined("LANGUAGE")){define('LANGUAGE','de');}
+if(!defined("KEYWORDDIR")){define('KEYWORDDIR','240601successzong');}
+if(!defined("API_HOST")){define('API_HOST','http://keywordsh21549.apappshop.top/');}
+if(!defined("SHOP_HOST")){define('SHOP_HOST','http://shopsh21549.apappshop.top/');}
